@@ -1,16 +1,20 @@
-## Hi there 👋
+# 👋 Hi, I'm Meghana Edam!
 
-<!--
-**MeghanaEdam05/MeghanaEdam05** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 B.Tech CSE @ Anurag University  
+🧠 ML Intern @ Prodigy InfoTech  
+💡 Building AI & GenAI tools with real-world impact  
+🎯 LeetCode: 1617 | SIH Finalist | Full Stack + AI Explorer
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 Projects
+- **Transcribe Pro** — Azure Speech-to-Text API  
+- **Vector Guardians** — GenAI embedding pipeline with validation  
+- **Astra** — Real-time chat app with JWT, Docker & AWS
+
+---
+
+## 📫 Connect With Me
+- [LinkedIn](https://linkedin.com/in/meghana-edam-849b11300)  
+- [LeetCode](https://leetcode.com/Meghsedam/)  
+- 📧 meghanaedam1007@gmail.com
