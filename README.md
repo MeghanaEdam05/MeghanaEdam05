@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Meghana Edam!
+ # 👋 Hi, I'm Meghana Edam!
 
 🎓 B.Tech CSE @ Anurag University  
 🧠 ML Intern @ Prodigy InfoTech 
