@@ -4,7 +4,7 @@
 🧠 ML Intern @ Prodigy InfoTech  
 💡 Building AI & GenAI tools with real-world impact  
 🎯 LeetCode: 1617 | SIH College Level Finalist | Full Stack + AI Explorer
- 
+  
 ---
 
 ## 🚀 Projects
