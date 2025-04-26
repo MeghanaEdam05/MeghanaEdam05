@@ -1,7 +1,7 @@
  # 👋 Hi, I'm Meghana Edam! 
  
 🎓 B.Tech CSE @ Anurag University    
-🧠 ML Intern @ Prodigy InfoTech  
+🧠 ML Intern @ Prodigy InfoTech   
 💡 Building AI & GenAI tools with real-world impact  
 🎯 LeetCode: 1617 | SIH College Level Finalist | Full Stack + AI Explorer
   
