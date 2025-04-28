@@ -1,5 +1,5 @@
  # 👋 Hi, I'm Meghana Edam!  
- 
+  
 🎓 B.Tech CSE @ Anurag University     
 🧠 ML Intern @ Prodigy InfoTech   
 💡 Building AI & GenAI tools with real-world impact   
