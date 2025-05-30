@@ -1,6 +1,6 @@
  # 👋 Hi, I'm Meghana Edam!  
        
-🎓 B.Tech CSE @ Anurag University                
+🎓 B.Tech CSE @ Anurag University                 
 🧠 Ex-WEB Intern @ Shark Analytics             
 💡 Building AI & GenAI tools with real-world impact                   
 🎯 LeetCode: 1617 | SIH College Level Finalist | Full Stack + AI Explorer                 
