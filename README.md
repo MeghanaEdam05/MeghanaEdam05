@@ -7,7 +7,7 @@
        
 ---  
  
-## 🚀 Projects 
+## 🚀 Projects  
 - **Transcribe Pro** — Azure Speech-to-Text API  
 - **Vector Guardians** — GenAI embedding pipeline with validation  
 - **Astra** — Real-time chat app with JWT, Docker & AWS 
